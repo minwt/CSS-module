@@ -11,4 +11,7 @@ mwt.font.margin.padding.css
   |fw500  |xs-fw500|md-fw500|
   |fw600. |xs-fw600|md-fw600|
   |fw700. |xs-fw700|md-fw700|
+| thead 1 | thrad 2 | thread 3 |
+|---------|---------|----------|
+| td      | td      | td       |
 
