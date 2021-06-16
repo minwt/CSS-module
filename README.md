@@ -2,7 +2,7 @@
 mwt.font.margin.padding.css
 
 + 文字已建屬性
-  + font-weight
+  + __font-weight__
   + fw200
   + fw300
   + fw400
