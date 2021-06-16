@@ -2,6 +2,11 @@
 mwt.font.margin.padding.css
 
 + 文字已建屬性
-  文字粗細變化
-  fw200、fw300、
+  + font-weight
+  + fw200
+  + fw300
+  + fw400
+  + fw500
+  + fw600
+  + fw700
 
