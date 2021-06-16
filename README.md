@@ -5,7 +5,7 @@ mwt.font.margin.padding.css
   + __font-weight__
   + fw200、xs-fw200、md-fw200
   + fw300、xs-fw300、md-fw300
-  + fw400、xs-fw400、md-fw4200
+  + fw400、xs-fw400、md-fw400
   + fw500、xs-fw500、md-fw500
   + fw600、xs-fw600、md-fw600
   + fw700、xs-fw700、md-fw700
